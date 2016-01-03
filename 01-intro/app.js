@@ -22,6 +22,4 @@ output(str, regex, document.querySelector('pre'))
 
 //console.log(str.replace(regex, str => "XX"));
 
-//console.log(str.search(regex))
-
-
+//console.log(str.search(regex));
