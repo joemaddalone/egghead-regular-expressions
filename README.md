@@ -3,38 +3,56 @@
 
 ## 01. Introduction
 
+https://jsbin.com/wiguhu/edit?js,output
+
 In this lesson we'll learn two ways to construct a Regular Expression in Javascript, explore the methods available to us directly from the RegExp constructor,  use Regular Expressions with String.prototype methods, and build a simple regex highlighter.
 
 
 ## 02. Find Plain Text Patterns (text, dots, and metacharacters)
 
+https://jsbin.com/netaza/edit?js,output
+
 The simplest use of Regular Expressions is to find a plain text pattern.  In this lesson we'll look at at finding plain text patterns as well as using the metacharacter "." and how to escape a metacharacter.
 
 ## 03. Find Repeated Patterns (Quantifiers/Shorthands)
+
+https://jsbin.com/yexuju/edit?js,output
 
 Regular Expression Quantifiers allow us to identifiy a repeating sequence of characters of minimum and maximum lengths.  In this lesson we'll use Regular Expression Quantifiers to match repeated patterns, common Quantifier patterns, and using shorthand for those common Quantifier patterns.
 
 ## 04. Find Sets of Characters (Character Classes)
 
+https://jsbin.com/surofu/edit?js,output
+
 Regular Expression Character Classes define a group of characters we can use in conjunction with quantifiers.
 
 ## 05. Use Shorthand to Find Common Sets of Characters (Character Class Shorthands)
+
+https://jsbin.com/buqihu/edit?js,output
 
 In this lesson we'll learn shorthands for common character classes as well as their negated forms.
 
 ## 06. Find Groups of Characters (Capturing Groups)
 
+https://jsbin.com/xucapaw/edit?js,console,output
+
 In this lesson we'll capture groups of characters we wish to match, use  quantifiers with those groups, and use references to those groups in String.prototype.replace.
 
 ## 07. Find a String that Precedes Another String (Lookaheads)
+
+https://jsbin.com/pasogu/edit?js,output
 
 Lookaheads allow us to match a pattern followed by another pattern without including the second pattern in our match.
 
 ## 08. Find the Start and End of Words (Word Boundaries)
 
-Regular Expression Word Boundaries allow to preform "whoe word only" searches within out source string.
+https://jsbin.com/zageza/edit?js,output
+
+Regular Expression Word Boundaries allow to preform "whole word only" searches within our source string.
 
 ## 09. Match the Same String Twice (Back References)
+
+https://jsbin.com/pixova/edit?js,console
 
 Regular Expression Backreferences provide us a method to match a previously captured pattern a second time.
 
