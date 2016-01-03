@@ -48,7 +48,7 @@ Lookaheads allow us to match a pattern followed by another pattern without inclu
 
 https://jsbin.com/zageza/edit?js,output
 
-Regular Expression Word Boundaries allow to preform "whole word only" searches within our source string.
+Regular Expression Word Boundaries allow to perform "whole word only" searches within our source string.
 
 ## 09. Match the Same String Twice (Back References)
 
