@@ -1,5 +1,5 @@
+// https://jsbin.com/pasogu/edit?js,output
 'use strict';
-
 
 var str = `foo
 foobar

@@ -1,3 +1,5 @@
+// https://jsbin.com/wiguhu/edit?js,output
+
 'use strict';
 
 const output = (str, regex, target) => {

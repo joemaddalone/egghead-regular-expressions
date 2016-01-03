@@ -1,14 +1,13 @@
+// https://jsbin.com/xucapaw/edit?js,console,output
 'use strict';
-
 
 var str = `800-456-7890
 (555) 456-7890
 4564567890`;
 
-var regex = /\(?(?:\d{3})\)?[\s-]?\d{3}[\s-]?\d{4}/g;
+var regex = /\(?(\d{3})\)?[\s-]?\d{3}[\s-]?\d{4}/g;
 
 console.log(str.replace(regex, 'area code: $1'))
-
 
 /**
  * @param  String str

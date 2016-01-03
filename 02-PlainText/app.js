@@ -1,5 +1,5 @@
+// https://jsbin.com/netaza/edit?js,output
 'use strict';
-
 
 var str = `Cat
 sat on

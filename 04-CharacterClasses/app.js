@@ -1,9 +1,8 @@
+// https://jsbin.com/surofu/edit?js,output
 'use strict';
-
 
 var str = `cat mat bat Hat ?at 0at`;
 var regex = /[a-zA-Z0-9?]at/g
-
 
 /**
  * @param  String str

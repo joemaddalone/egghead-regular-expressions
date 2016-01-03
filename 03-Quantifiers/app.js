@@ -1,5 +1,6 @@
-'use strict';
+// https://jsbin.com/yexuju/edit?js,output
 
+'use strict';
 
 var str = `http://egghead.io
 not a web address

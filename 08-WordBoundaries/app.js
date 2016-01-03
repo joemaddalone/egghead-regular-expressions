@@ -1,5 +1,5 @@
+// https://jsbin.com/zageza/edit?js,output
 'use strict';
-
 
 var str = `This history is his, it is`;
 var regex = /\Bis\B/g

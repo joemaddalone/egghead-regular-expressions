@@ -1,5 +1,5 @@
+// https://jsbin.com/pixova/edit?js,console
 'use strict';
-
 
 var str = `<b>Bold</b><i>italics</i>`;
 var regex = /<(\w+)>(.*)<\/\1>/g;
