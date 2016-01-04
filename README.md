@@ -48,7 +48,7 @@ Lookaheads allow us to match a pattern followed by another pattern without inclu
 
 https://jsbin.com/zageza/edit?js,output
 
-Regular Expression Word Boundaries allow to perform "whole word only" searches within our source string.
+Regular Expression Word Boundaries allow to perform  "whole word only" searches within our source string.
 
 ## 09. Match the Same String Twice (Back References)
 
@@ -56,6 +56,11 @@ https://jsbin.com/pixova/edit?js,console
 
 Regular Expression Backreferences provide us a method to match a previously captured pattern a second time.
 
+## 10. Match the Start and End of Lines (Line Anchors / "m" flag)
+
+https://jsbin.com/lucava/edit?js,output
+
+We can identify the start and end of a line using Line Anchors.  When dealing with multiple line matches we can utilize the multiline regular expression flag.
 
 ## Notes
 
